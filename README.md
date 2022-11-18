@@ -1,3 +1,2 @@
 # Calendar
-Super basic printer
-Josiah check this
+Basic calendar printer
